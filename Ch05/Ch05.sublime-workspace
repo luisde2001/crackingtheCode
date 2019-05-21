@@ -1,0 +1,439 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"enem",
+				"enemy_pos\tstatement"
+			],
+			[
+				"pla",
+				"player_pos\tstatement"
+			],
+			[
+				"ene",
+				"enemy_size\tstatement"
+			],
+			[
+				"en",
+				"enemy_pos\tparam"
+			],
+			[
+				"WI",
+				"WIDTH-enemy_size"
+			],
+			[
+				"pl",
+				"player_size\tstatement"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"fill",
+				"fill\tfill rgb"
+			],
+			[
+				"line",
+				"line_padding_top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "caesarCipher.py",
+			"settings":
+			{
+				"buffer_size": 1373,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "checkPw.py",
+			"settings":
+			{
+				"buffer_size": 306,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pyperclip.py",
+			"settings":
+			{
+				"buffer_size": 20643,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/luisde2001/Documents/luisdeveloper/CrackingTheCode/Ch05/micaesarCipher.py",
+		"/Users/luisde2001/Documents/luisdeveloper/CrackingTheCode/Ch05/micaesarCipher",
+		"/Users/luisde2001/Documents/luisdeveloper/CrackingTheCode/Ch05/caesarCipher.py",
+		"/Users/luisde2001/Google Drive/SECUNDARIA/CURSO18-19/TIC 4ESO/UDXXPENSAMIENTO COMPUTACIONAL/casaDomotica.ino",
+		"/Users/luisde2001/Documents/luisdeveloper/CrackingTheCode/CrackingCodesFiles/caesarCipher.py",
+		"/Users/luisde2001/Documents/luisdeveloper/Pythonchallenge/pythonchallenge1.py",
+		"/Users/luisde2001/Desktop/Prueba.html",
+		"/Users/luisde2001/Desktop/untitled.html",
+		"/Users/luisde2001/Documents/luisdeveloper/Pygame1/game.py",
+		"/Users/luisde2001/Documents/CursosProgramacion/Pygame/game.py",
+		"/Users/luisde2001/Desktop/game.py",
+		"/Users/luisde2001/Desktop/my example.py",
+		"/Users/luisde2001/Desktop/hello.py",
+		"/Users/luisde2001/Desktop/KivaNS/ej.bat",
+		"/Users/luisde2001/Downloads/visual-class/KivaNS-start.bat",
+		"/Users/luisde2001/Desktop/canales2.m3u",
+		"/Users/luisde2001/Desktop/canales1.m3u",
+		"/Users/luisde2001/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/luisde2001/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/luisde2001/Documents/RealPython/schedule/schedule/__init__.py",
+		"/Users/luisde2001/Documents/RealPython/test-repo/new-file.py",
+		"/Users/luisde2001/Documents/RealPython/test-repo/schedule",
+		"/Users/luisde2001/Documents/RealPython/test-repo/myfile.txt",
+		"/Users/luisde2001/Library/Application Support/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/Users/luisde2001/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/luisde2001/Downloads/mypy.py",
+		"/anaconda3/lib/python3.6/os.py",
+		"/Users/luisde2001/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/luisde2001/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "caesarCipher.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								374,
+								440
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "checkPw.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								84
+							]
+						],
+						"settings":
+						{
+							"SL.20.region_keys":
+							[
+								"SL.flake8.Highlights.|a8024cc9d9251be40a5def74c3b0cf4928c374665baf243bc8ae57e1fdef4210|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.flake8.Highlights.|551f52c735ba29513b96c85e79aa47a4a9f3014fa1fe8e828a5573f7efb83610|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|adfbb959447f7ebaafdcbc1013ff89e33e4ae121fef2d3bdb3077188c99950ca|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|77c7aa1cfe3747bfa2ca19c58c5a6fc2e4622d0ce8ae1272d262d8c5ee20d223|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pyperclip.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9964.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 143.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 0.0
+	},
+	"output.stino_panel":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Ch05.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
